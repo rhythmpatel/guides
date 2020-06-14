@@ -5,9 +5,9 @@ An effort to build a collection of good resources for easy learning. If you woul
 
 ## Guides
 
-- [CSS Grid layout](/grid-layout)
-- [SVG](/svg)
-- [Email](/email)
+- [CSS Grid layout](/grid-layout.md)
+- [SVG](/svg.md)
+- [Email](/email.md)
 
 
 ## Support or Contact
