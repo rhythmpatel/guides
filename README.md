@@ -2,11 +2,12 @@
 
 An effort to build a collection of good resources for easy learning. If you would like to contribute, you can fork and create a pull request.
 
+
 ## Guides
 
-- [CSS Grid layout](/grid-layout.html)
-- [SVG](/svg.html)
-- [Email](/email.html)
+- [CSS Grid layout](/grid-layout)
+- [SVG](/svg)
+- [Email](/email)
 
 
 ## Support or Contact
